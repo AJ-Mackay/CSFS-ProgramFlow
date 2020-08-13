@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/Program Flow/EnumeratedConstants/EnumeratedConstants/bin/Debug/netcoreapp3.1/EnumeratedConstants.deps.json
+/Users/paulmackay/Desktop/C#/Program Flow/EnumeratedConstants/EnumeratedConstants/bin/Debug/netcoreapp3.1/EnumeratedConstants.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/Program Flow/EnumeratedConstants/EnumeratedConstants/bin/Debug/netcoreapp3.1/EnumeratedConstants.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/Program Flow/EnumeratedConstants/EnumeratedConstants/bin/Debug/netcoreapp3.1/EnumeratedConstants.dll
+/Users/paulmackay/Desktop/C#/Program Flow/EnumeratedConstants/EnumeratedConstants/bin/Debug/netcoreapp3.1/EnumeratedConstants.pdb
+/Users/paulmackay/Desktop/C#/Program Flow/EnumeratedConstants/EnumeratedConstants/obj/Debug/netcoreapp3.1/EnumeratedConstants.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/Program Flow/EnumeratedConstants/EnumeratedConstants/obj/Debug/netcoreapp3.1/EnumeratedConstants.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/Program Flow/EnumeratedConstants/EnumeratedConstants/obj/Debug/netcoreapp3.1/EnumeratedConstants.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/Program Flow/EnumeratedConstants/EnumeratedConstants/obj/Debug/netcoreapp3.1/EnumeratedConstants.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/Program Flow/EnumeratedConstants/EnumeratedConstants/obj/Debug/netcoreapp3.1/EnumeratedConstants.dll
+/Users/paulmackay/Desktop/C#/Program Flow/EnumeratedConstants/EnumeratedConstants/obj/Debug/netcoreapp3.1/EnumeratedConstants.pdb
+/Users/paulmackay/Desktop/C#/Program Flow/EnumeratedConstants/EnumeratedConstants/obj/Debug/netcoreapp3.1/EnumeratedConstants.genruntimeconfig.cache
