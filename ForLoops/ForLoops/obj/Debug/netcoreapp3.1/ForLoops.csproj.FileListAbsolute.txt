@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/Program Flow/ForLoops/ForLoops/bin/Debug/netcoreapp3.1/ForLoops.deps.json
+/Users/paulmackay/Desktop/C#/Program Flow/ForLoops/ForLoops/bin/Debug/netcoreapp3.1/ForLoops.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/Program Flow/ForLoops/ForLoops/bin/Debug/netcoreapp3.1/ForLoops.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/Program Flow/ForLoops/ForLoops/bin/Debug/netcoreapp3.1/ForLoops.dll
+/Users/paulmackay/Desktop/C#/Program Flow/ForLoops/ForLoops/bin/Debug/netcoreapp3.1/ForLoops.pdb
+/Users/paulmackay/Desktop/C#/Program Flow/ForLoops/ForLoops/obj/Debug/netcoreapp3.1/ForLoops.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/Program Flow/ForLoops/ForLoops/obj/Debug/netcoreapp3.1/ForLoops.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/Program Flow/ForLoops/ForLoops/obj/Debug/netcoreapp3.1/ForLoops.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/Program Flow/ForLoops/ForLoops/obj/Debug/netcoreapp3.1/ForLoops.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/Program Flow/ForLoops/ForLoops/obj/Debug/netcoreapp3.1/ForLoops.dll
+/Users/paulmackay/Desktop/C#/Program Flow/ForLoops/ForLoops/obj/Debug/netcoreapp3.1/ForLoops.pdb
+/Users/paulmackay/Desktop/C#/Program Flow/ForLoops/ForLoops/obj/Debug/netcoreapp3.1/ForLoops.genruntimeconfig.cache
