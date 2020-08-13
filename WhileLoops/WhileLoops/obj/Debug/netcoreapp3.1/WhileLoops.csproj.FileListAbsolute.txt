@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/Program Flow/WhileLoops/WhileLoops/bin/Debug/netcoreapp3.1/WhileLoops.deps.json
+/Users/paulmackay/Desktop/C#/Program Flow/WhileLoops/WhileLoops/bin/Debug/netcoreapp3.1/WhileLoops.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/Program Flow/WhileLoops/WhileLoops/bin/Debug/netcoreapp3.1/WhileLoops.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/Program Flow/WhileLoops/WhileLoops/bin/Debug/netcoreapp3.1/WhileLoops.dll
+/Users/paulmackay/Desktop/C#/Program Flow/WhileLoops/WhileLoops/bin/Debug/netcoreapp3.1/WhileLoops.pdb
+/Users/paulmackay/Desktop/C#/Program Flow/WhileLoops/WhileLoops/obj/Debug/netcoreapp3.1/WhileLoops.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/Program Flow/WhileLoops/WhileLoops/obj/Debug/netcoreapp3.1/WhileLoops.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/Program Flow/WhileLoops/WhileLoops/obj/Debug/netcoreapp3.1/WhileLoops.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/Program Flow/WhileLoops/WhileLoops/obj/Debug/netcoreapp3.1/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/Program Flow/WhileLoops/WhileLoops/obj/Debug/netcoreapp3.1/WhileLoops.dll
+/Users/paulmackay/Desktop/C#/Program Flow/WhileLoops/WhileLoops/obj/Debug/netcoreapp3.1/WhileLoops.pdb
+/Users/paulmackay/Desktop/C#/Program Flow/WhileLoops/WhileLoops/obj/Debug/netcoreapp3.1/WhileLoops.genruntimeconfig.cache
