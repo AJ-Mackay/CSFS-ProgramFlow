@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/Program Flow/Conditionals/Conditionals/bin/Debug/netcoreapp3.1/Conditionals.deps.json
+/Users/paulmackay/Desktop/C#/Program Flow/Conditionals/Conditionals/bin/Debug/netcoreapp3.1/Conditionals.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/Program Flow/Conditionals/Conditionals/bin/Debug/netcoreapp3.1/Conditionals.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/Program Flow/Conditionals/Conditionals/bin/Debug/netcoreapp3.1/Conditionals.dll
+/Users/paulmackay/Desktop/C#/Program Flow/Conditionals/Conditionals/bin/Debug/netcoreapp3.1/Conditionals.pdb
+/Users/paulmackay/Desktop/C#/Program Flow/Conditionals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/Program Flow/Conditionals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/Program Flow/Conditionals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/Program Flow/Conditionals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/Program Flow/Conditionals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.dll
+/Users/paulmackay/Desktop/C#/Program Flow/Conditionals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.pdb
+/Users/paulmackay/Desktop/C#/Program Flow/Conditionals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.genruntimeconfig.cache
