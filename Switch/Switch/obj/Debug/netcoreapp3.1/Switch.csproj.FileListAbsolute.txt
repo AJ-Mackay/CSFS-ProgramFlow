@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/Program Flow/Switch/Switch/bin/Debug/netcoreapp3.1/Switch.deps.json
+/Users/paulmackay/Desktop/C#/Program Flow/Switch/Switch/bin/Debug/netcoreapp3.1/Switch.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/Program Flow/Switch/Switch/bin/Debug/netcoreapp3.1/Switch.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/Program Flow/Switch/Switch/bin/Debug/netcoreapp3.1/Switch.dll
+/Users/paulmackay/Desktop/C#/Program Flow/Switch/Switch/bin/Debug/netcoreapp3.1/Switch.pdb
+/Users/paulmackay/Desktop/C#/Program Flow/Switch/Switch/obj/Debug/netcoreapp3.1/Switch.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/Program Flow/Switch/Switch/obj/Debug/netcoreapp3.1/Switch.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/Program Flow/Switch/Switch/obj/Debug/netcoreapp3.1/Switch.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/Program Flow/Switch/Switch/obj/Debug/netcoreapp3.1/Switch.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/Program Flow/Switch/Switch/obj/Debug/netcoreapp3.1/Switch.dll
+/Users/paulmackay/Desktop/C#/Program Flow/Switch/Switch/obj/Debug/netcoreapp3.1/Switch.pdb
+/Users/paulmackay/Desktop/C#/Program Flow/Switch/Switch/obj/Debug/netcoreapp3.1/Switch.genruntimeconfig.cache
